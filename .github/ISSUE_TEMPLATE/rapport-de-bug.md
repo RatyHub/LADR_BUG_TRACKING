@@ -15,10 +15,6 @@ assignees: ''
 -
 (description)
 
-**Comportement actuel :**
--
-(comportement actuel)
-
 **Comportement attendu :**
 -
 (comportement attendu)
@@ -27,7 +23,12 @@ assignees: ''
 -
 (pré requis pour les tests)
 
-**Tests à effectuer :**
+**Test(s) à effectuer avant correction :**
+-
+- (test 1)
+- (test 2)
+
+**Test(s) à effectuer après correction :**
 -
 - (test 1)
 - (test 2)
